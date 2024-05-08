@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#FFC0CB"
+    tools:context=".MainActivity2">
+
+
+    <TextView
+        android:id="@+id/textSemester4"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Senin: - Intergrasi dan migrasi sistem C (set2-4) buk emmy / ruang201\nKeamanan informasi D (4-set7) pak sugi / 203b\n\nSelasa: - Statistik A (set9-10.10) buk desy / 201\nSistem enterprise B (11-12.40) buk putri / aula\n\nRabu: - Etika profesi dan pendidikan anti korupsi A (4-6) pak adi / ruang203b\n\nKamis: - Pemrograman mobile A (set9-11) pak cahyawan / 203b\nAnalisis dan desain sistem informasi D (11-set2) buk emmy / 201\n\nJumat: - Bahasa indonesia D (09.20-11)\nPancasila E (11-12.40) pak wirya /203b"
+        android:textSize="25dp"
+        android:layout_gravity="center_horizontal" />
+
+
+</LinearLayout>
